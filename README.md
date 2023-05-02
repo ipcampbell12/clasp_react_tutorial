@@ -1,3 +1,0 @@
-FL: 1mvDDgHwBxULXyqiP39_eaod1f6-NcwHkb_0wC5c45NbDZMkgdtDjzhG8
-MA: 1H1FPl5b36hvRxswHK2pBuHfnYKBLX6kAeGxOSW8j9diytPCgI9AOiMhE
-AZ: 1cSMufgIepmbvaoehNLgDIWG68evJglF2Emg6HLgbxm14d4clI91Js_11
